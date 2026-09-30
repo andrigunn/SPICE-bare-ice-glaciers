@@ -2,7 +2,7 @@
 
 <img width="2816" height="1536" alt="overview" src="https://github.com/user-attachments/assets/d5a00e51-6630-448a-8a87-3164626451e0" />
 
-This repository contains the processing code, machine learning models, and the SPICE dataset developed for the manuscript "2026-09-22-spectral-glaciers-manucript-rev-clean.docx"[cite: 1]. The project provides a continuous 26-year daily satellite record (2000–2025) of surface albedo, snowline dynamics, and bare-ice exposure across Icelandic ice caps[cite: 1].
+This repository contains the processing code, machine learning models, and the tools to make the SPICE dataset. developed for the manuscript "2026-09-22-spectral-glaciers-manucript-rev-clean.docx"[cite: 1]. The project provides a continuous 26-year daily satellite record (2000–2025) of surface albedo, snowline dynamics, and bare-ice exposure across Icelandic ice caps[cite: 1].
 
 ## Overview
 
